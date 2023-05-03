@@ -30,6 +30,10 @@ ______________________________________________
 <a href="https://discord.gg/#3198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3198" height="30" width="40" /></a>
 </p>
 
+_________________________________________
+
+<h3 align="left">PROJECTS</h3>
+
 
  
 
