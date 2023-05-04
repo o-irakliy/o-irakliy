@@ -9,12 +9,6 @@ Working in a team is important to me as it provides opportunities to develop and
 
 ______________________________________
 
-<h3 align="left">EDUCATION</h3>
-
--
--
--
-_____________________________________________
 
 <h3 align="left">LANGUAGES AND TOOLS</h3>
 
@@ -39,7 +33,7 @@ ______________________________________________
 
 _________________________________________
 
-<h3 align="left">PROJECTS</h3>
+<h3 align="left">PROJECTS 👇 </h3>
 
 
  
