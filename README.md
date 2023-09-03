@@ -3,7 +3,7 @@
 
 <h3 align="left">ABOUT ME</h3>
 
-As a beginner machine learning engineer, I am interested in working in a dynamic and exciting environment where I can create innovative solutions to complex problems and explore new possibilities for applying machine learning. 
+As a machine learning engineer, I am interested in working in a dynamic and exciting environment where I can create innovative solutions to complex problems and explore new possibilities for applying machine learning. 
 
 Working in a team is important to me as it provides opportunities to develop and improve my skills. I am enthusiastic about learning new technologies and methods to effectively solve challenging problems and achieve goals.
 
